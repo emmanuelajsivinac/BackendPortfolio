@@ -1,4 +1,7 @@
 # Backend Portafolio
-Portafolio Principal de Desarrollo Backend&lt;br>Main Backend Development Portfolio
+
+Portafolio Principal de Desarrollo Backend
+------
+Main Backend Development Portfolio
 
 
